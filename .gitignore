@@ -1,0 +1,3 @@
+zig-cache
+src/c/simd.o
+src/c/main
